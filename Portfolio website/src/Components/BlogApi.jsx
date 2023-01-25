@@ -1,0 +1,36 @@
+const BlogApi = [
+  {
+    id: 1,
+    image: "./image/blog-01.jpg",
+    date: "2 May, 2021",
+    title_one: "Digital Marketing .",
+    desc_one: "Digital marketing is the process of promoting products or services using digital channels to reach and engage customers. It encompasses a wide range of strategies, tactics, and techniques to increase brand awareness, generate leads and drive sales. Here are some common elements of digital marketing.",
+    title_two: "Search Engine Optimization.",
+    desc_two: "SEO is the process of optimizing a website to rank higher in search engine results pages (SERPs) for specific keywords. This can be done through on-page optimization, such as using relevant keywords in the content and meta tags, as well as off-page optimization, such as building backlinks from other websites.",
+    title_three: "Content Marketing: ",
+    desc_three: "Content marketing is the process of creating and distributing valuable, relevant, and consistent content to attract and engage a specific target audience. This can include blog posts, videos, infographics, and more. The goal is to provide value to the audience and ultimately drive profitable customer action.",
+  },
+  {
+    id: 2,
+    image: "./image/blog-02.jpg",
+    date: "28 April, 2021",
+    title_one: "The services provide for design ",
+    desc_one: "Design services are essential for creating visually appealing and user-friendly products, whether it's a website, mobile app, or marketing materials. These services can include a variety of different elements, such as graphic design, user interface (UI) design, user experience (UX) design, and more.",
+    title_two: "Graphic designs.",
+    desc_two: "Graphic design is the process of creating visual content, such as logos, illustrations, and typography, to convey a message or brand identity. Graphic designers use various software and tools, such as Adobe Illustrator and Photoshop, to create eye-catching designs that can be used on websites, apps, and marketing materials",
+    title_three: "UIdesign",
+    desc_three: "UI design is the process of creating the layout, navigation, and overall look and feel of a digital product. UI designers focus on creating a seamless user experience by making sure the product is easy to use and understand.",
+  },
+  {
+    id: 3,
+    image: "./image/blog-03.jpg",
+    date: "20 Jun, 2021",
+    title_one: "Mobile app landing design & app maintain.",
+    desc_one: "Mobile app landing design is the process of creating a website or landing page for a mobile app that is designed to inform, persuade, and entice users to download and use the app.",
+    title_two: "Design",
+    desc_two: "A well-designed mobile app landing page should be visually appealing, easy to navigate, and contain all the necessary information about the app, including its features, benefits, and screenshots..",
+    title_three: "Landing Page",
+    desc_three: "To create an effective mobile app landing page, it is important to consider the target audience and design the page accordingly. It is also important to include clear calls to action, such as  to encourage users to take the next step.",
+  },
+]
+export default BlogApi
